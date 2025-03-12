@@ -36,8 +36,8 @@
     "autoload": {
         "psr-4": {
             "Acacha\\AdminLTETemplateLaravel\\": "src",
-            "Acacha\\Filesystem\\": "src/acacha/filesystem/src",
-            "Acacha\\Helpers\\": "src/acacha/helpers/src"
+            "Acacha\\Filesystem\\": "src/acacha/filesystem-master/src",
+            "Acacha\\Helpers\\": "src/acacha/helpers-master/src"
         }
     },
     "autoload-dev": {
