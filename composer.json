@@ -1,5 +1,5 @@
 {
-    "name": "acacha/admin-lte-template-laravel",
+    "name": "fork-acacha/admin-lte-template-laravel",
     "description": "AdminLTE template applied to Laravel Scaffolding",
     "license": "MIT",
     "type": "package",
@@ -26,7 +26,6 @@
         "php": ">=7.3",
         "creativeorange/gravatar": "~1.0",
         "laravel/framework": ">=8.0",
-        "league/flysystem": "^1.0",
         "laravel/ui": "^3.0"
     },
     "require-dev": {
