@@ -13,13 +13,13 @@ A PHP Filesystem with stubs compiler support
 
 Via Composer
 
-``` bash
+```bash
 $ composer require acacha/filesystem
 ```
 
 ## Usage
 
-``` php
+```php
 $filesystem = new Acacha\Filesystem();
 ```
 
@@ -29,7 +29,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 ## Testing
 
-``` bash
+```bash
 $ composer test
 ```
 
@@ -43,8 +43,8 @@ If you discover any security related issues, please email sergiturbadenas@gmail.
 
 ## Credits
 
-- [Sergi Tur Badenas][link-author]
-- [All Contributors][link-contributors]
+-   [Sergi Tur Badenas][link-author]
+-   [All Contributors][link-contributors]
 
 ## License
 
@@ -56,7 +56,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/acacha/filesystem.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/acacha/filesystem.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/acacha/filesystem.svg?style=flat-square
-
 [link-packagist]: https://packagist.org/packages/acacha/filesystem
 [link-travis]: https://travis-ci.org/acacha/filesystem
 [link-scrutinizer]: https://scrutinizer-ci.com/g/acacha/filesystem/code-structure
